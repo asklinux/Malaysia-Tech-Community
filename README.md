@@ -11,6 +11,11 @@
 
 # Malaysia Tech Community
 
+### Kerja kosong Dalam bidang IT
+Kumpulan perkongsian peluang kerjaya dalam bidang Teknologi Maklumat(ICT) di Malaysia.
+
+- [FB Group](https://www.facebook.com/groups/kerjakosongit)
+
 ### Javascript.my
 Welcome fellow JavaScript developers! JavaScript.my is for JavaScript enthusiasts in Malaysia and all around the world.
 - javascript, node.js
